@@ -21,7 +21,7 @@ TG频道群：https://t.me/py996
 [rewrite_local]
 
 
-^https:\/\/[a-z0-9.-]+\/api\/m3u8\/decode\/authPath\?path=.+\.m3u8 url script-request-header https://raw.githubusercontent.com/89996462/Quantumult-X/main/ghs/xhp.js
+^https:\/\/[a-z0-9.-]+\/api\/m3u8\/decode\/authPath\?path=.+\.m3u8 url script-request-header https://raw.githubusercontent.com/lch0724/quanx/main/xiaohp.js
 
 [mitm] 
 
